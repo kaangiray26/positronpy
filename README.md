@@ -6,7 +6,7 @@ This repository contains the source code for the PyPI package [positronpy](https
 ## Installation
 You can install the package using pip:
 ```bash
-python3 -m pip install positronpy
+pip install positronpy
 ```
 
 ## Usage
