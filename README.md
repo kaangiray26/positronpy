@@ -1,5 +1,9 @@
-# positronpy
-![PyPI - Version](https://img.shields.io/pypi/v/positronpy)
+<div align="center">
+  <h1>positronpy</h1>
+  <a href="https://pypi.org/project/positronpy/">
+    <img alt="PyPI - Version" src="https://img.shields.io/pypi/v/positronpy">
+  </a>
+</div>
 
 The Python CLI Tool for Positron
 
