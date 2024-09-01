@@ -1,11 +1,10 @@
 <div align="center">
   <h1>positronpy</h1>
+  <p>The Python CLI Tool for Positron</p>
   <a href="https://pypi.org/project/positronpy/">
     <img alt="PyPI - Version" src="https://img.shields.io/pypi/v/positronpy">
   </a>
 </div>
-
-The Python CLI Tool for Positron
 
 This repository contains the source code for the PyPI package [positronpy](https://pypi.org/project/positronpy/).
 
